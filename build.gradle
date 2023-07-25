@@ -11,12 +11,6 @@ version = '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-
-    maven { url "https://plugins.gradle.org/m2/" }
-    maven { url "https://artifacts.apple.com/libs-snapshot" }
-    maven { url "https://artifacts.apple.com/libs-release" }
-    maven { url "https://artifacts.apple.com/plugins-release" }
-    maven { url "https://repository.cloudera.com/artifactory/cloudera-repos/" }
 }
 
 dependencies {
